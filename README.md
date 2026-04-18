@@ -1,11 +1,14 @@
 # CSS3 Boxee
-CodePlayer Boxee CSS3 Logo project. Made with HTML & CSS.
+Boxee CSS3 Logo CSS art
+
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions
-Clone this repo or download zip file. Open index.html in your browser.
-
-## Contributions
-This code is based on starter code from TheCodePlayer.com. Therefore I will not be accepting any pull requests.
+1. Clone this repo or download zip file. 
+2. Open index.html in your browser.
+3. The boxee logo will appear in the center of the page.
 
 ## Acknowledgements
 * TheCodePlayer.com
